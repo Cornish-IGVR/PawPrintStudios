@@ -375,3 +375,771 @@ Make sure 'Score_HUD' has been compiled for  Get TargetScore
 [2018.12.05-19.18.14:732][  4]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TopScores.TopScores
 [2018.12.05-19.18.16:714][102]LogSlate: Window 'TopScores' being destroyed
 [2018.12.05-19.18.17:695][204]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Score_HUD.Score_HUD
+[2018.12.05-19.22.51:667][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.30.06:960][182]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105 or HorizontalBox /Game/UI/Score_HUD.Score_HUD_C:WidgetTree.HorizontalBox_105
+[2018.12.05-19.30.06:960][182]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_1.WidgetTree_0.HorizontalBox_105
+[2018.12.05-19.30.06:960][182]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105 or HorizontalBox /Engine/Transient.World_4:Score_HUD_C_2.WidgetTree_0.HorizontalBox_105
+[2018.12.05-19.30.06:960][182]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105 or HorizontalBox /Engine/Transient.REINST_Score_HUD_C_3:WidgetTree.HorizontalBox_105
+[2018.12.05-19.30.06:960][182]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_0.WidgetTree_0.HorizontalBox_105
+[2018.12.05-19.30.07:244][182]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_105.HorizontalBoxSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_222).  Import failed...
+[2018.12.05-19.30.07:244][182]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_105.HorizontalBoxSlot_1"''
+[2018.12.05-19.30.41:499][182]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.30.47:624][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Score_HUD.Score_HUD_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.30.47:624][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:624][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.30.47:624][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.SKEL_TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Score_HUD_C_3:WidgetTree.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores:WidgetTree.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_3.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_5.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_6.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.30.47:625][524]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_105).  Import failed...
+[2018.12.05-19.30.47:625][524]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Score_HUD.Score_HUD_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.SKEL_TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Score_HUD_C_3:WidgetTree.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores:WidgetTree.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_3.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:262][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_5.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_6.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_7.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_8.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_9.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.31.01:263][324]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_105).  Import failed...
+[2018.12.05-19.31.01:263][324]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2018.12.05-19.32.33:843][718]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_231 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_20.WidgetTree_0.HorizontalBox_231
+[2018.12.05-19.32.33:843][718]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_231 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_24.WidgetTree_0.HorizontalBox_231
+[2018.12.05-19.32.33:843][718]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_231 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_25.WidgetTree_0.HorizontalBox_231
+[2018.12.05-19.32.33:843][718]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_231 or HorizontalBox /Engine/Transient.World_10:Score_HUD_C_26.WidgetTree_0.HorizontalBox_231
+[2018.12.05-19.32.33:843][718]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.HorizontalBox_231.HorizontalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_142).  Import failed...
+[2018.12.05-19.32.33:843][718]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_231.HorizontalBoxSlot_0"''
+[2018.12.05-19.33.42:273][543]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Score_HUD.Score_HUD_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.SKEL_TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Score_HUD_C_3:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_3.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_5.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_6.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:951][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_7.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_8.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_9.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_10.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_11.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_12.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_13.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_14.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_15.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_16.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_17.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_18.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_19.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_20.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_21.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_22.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_23.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_24.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_25.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_26.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_27.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_28.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_29.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_30.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.03:952][840]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_442).  Import failed...
+[2018.12.05-19.34.03:952][840]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Score_HUD.Score_HUD_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:TopScores_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.SKEL_TopScores_C:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_Score_HUD_C_3:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/TopScores.TopScores:WidgetTree.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_1.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_2.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_3.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_5.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_6.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_7.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_8.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_9.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_10.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_11.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:224][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_12.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_13.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_14.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_15.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_16.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_17.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_18.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_19.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_20.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_21.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_22.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_23.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_24.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_25.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_26.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_27.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_28.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_29.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_30.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_31.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_10:Score_HUD_C_32.WidgetTree_0.CanvasPanel_0
+[2018.12.05-19.34.29:225][345]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Score_HUD.Score_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_443).  Import failed...
+[2018.12.05-19.34.29:225][345]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_8"''
+[2018.12.05-19.35.03:917][397]BlueprintLog: New page: Compile Score_HUD
+[2018.12.05-19.35.04:554][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Score_HUD" FILE="../../../../PawPrintStudios/Test2/Content/UI/Score_HUD.uasset" SILENT=true
+[2018.12.05-19.35.04:598][427]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/Score_HUDADB46C9148EBE3FDABE163B6B46E73CE.tmp' to '../../../../PawPrintStudios/Test2/Content/UI/Score_HUD.uasset'
+[2018.12.05-19.36.30:056][329]LogLinker: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2018.12.05-19.36.30:056][329]LogLinker: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2018.12.05-19.36.30:056][329]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C"''
+[2018.12.05-19.36.30:058][329]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C"',MemberName="Seconds",MemberGuid=762C897041AE63CBB998A78FE2DE450B)'
+[2018.12.05-19.37.18:945][554]BlueprintLog: New page: Compile Score_HUD
+[2018.12.05-19.37.18:956][554]LogBlueprint: Warning: [Compiler Score_HUD] Could not find a variable named "Seconds" in 'Score_HUD'.
+Make sure 'Score_HUD' has been compiled for  Get Seconds
+[2018.12.05-19.37.18:957][554]LogBlueprint: Error: [Compiler Score_HUD] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.12.05-19.37.18:957][554]LogBlueprint: Error: [Compiler Score_HUD] The property associated with  Seconds  could not be found in '/Game/UI/Score_HUD.Score_HUD_C'
+[2018.12.05-19.37.19:005][554]LogBlueprint: Warning: [Compiler Score_HUD] [1550.78] Compile of Score_HUD failed. 2 Fatal Issue(s) 1 Warning(s) [in 59 ms] (/Game/UI/Score_HUD.Score_HUD)
+[2018.12.05-19.38.26:512][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.038
+[2018.12.05-19.38.26:514][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Score_HUD] ([1] browsable assets)...
+[2018.12.05-19.38.26:514][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Score_HUD]
+[2018.12.05-19.38.26:514][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Score_HUD" FILE="../../../../PawPrintStudios/Test2/Saved/Autosaves/Game/UI/Score_HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.05-19.38.26:548][444]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/Score_HUD_Auto1ED33B1514E36354D9D4E938A154B5847.tmp' to '../../../../PawPrintStudios/Test2/Saved/Autosaves/Game/UI/Score_HUD_Auto1.uasset'
+[2018.12.05-19.38.26:550][444]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.12.05-19.38.27:468][489]LogSlate: Took 0.034492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.05-19.40.42:598][131]BlueprintLog: New page: Compile Score_HUD
+[2018.12.05-19.41.04:874][462]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/RingToss_GameMode.RingToss_GameMode
+[2018.12.05-19.41.20:858][805]LogLinker: Can't find file '/Game/FirstPersonBP/UI/FP_Fail'
+[2018.12.05-19.41.20:858][805]LogLinker: Can't find file '/Game/FirstPersonBP/UI/FP_Fail'
+[2018.12.05-19.41.56:946][389]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.05-19.42.00:113][566]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.05-19.42.00:119][566]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.05-19.42.37:865][250]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.05-19.42.39:498][321]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.05-19.43.03:889][364]BlueprintLog: New page: Compile RingToss_GameMode
+[2018.12.05-19.43.05:554][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/RingToss_GameMode" FILE="../../../../PawPrintStudios/Test2/Content/VirtualRealityBP/Blueprints/RingToss_GameMode.uasset" SILENT=true
+[2018.12.05-19.43.05:624][445]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/RingToss_GameModeCD327CE14E7F8A9D9307E1ABDCF1B189.tmp' to '../../../../PawPrintStudios/Test2/Content/VirtualRealityBP/Blueprints/RingToss_GameMode.uasset'
+[2018.12.05-19.43.37:196][758]BlueprintLog: New page: Compile Score_HUD
+[2018.12.05-19.44.23:306][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.44.24:768][684]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-19.44.24:807][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Score_HUD" FILE="../../../../PawPrintStudios/Test2/Content/UI/Score_HUD.uasset" SILENT=true
+[2018.12.05-19.44.24:881][684]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/Score_HUD3BD28E53474F11EB9F9FAAB639E975C8.tmp' to '../../../../PawPrintStudios/Test2/Content/UI/Score_HUD.uasset'
+[2018.12.05-19.46.10:330][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.46.13:226][844]LogEditorViewport: Clicking on Actor (LMB): BoxCat_Character_C (BoxCat_Character)
+[2018.12.05-19.46.19:225][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.46.19:358][202]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.46.19:394][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.46.19:394][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.46.19:407][202]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:46:19 AM)
+[2018.12.05-19.46.19:407][202]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.46.19:418][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010586s)
+[2018.12.05-19.46.19:419][202]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.46.19:419][202]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.12.05-19.46.19:419][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011636s)
+[2018.12.05-19.46.19:485][202]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.46.19:579][202]LogInit: FAudioDevice initialized.
+[2018.12.05-19.46.19:598][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.46.19:653][202]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.46.19:653][202]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.46.19:656][202]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.46.19
+[2018.12.05-19.46.19:657][202]LogWorld: Bringing up level for play took: 0.003092
+[2018.12.05-19.46.19:691][202]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.12.05-19.46.19:696][202]Set new viewmode: Unlit
+[2018.12.05-19.46.19:700][202]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.43
+[2018.12.05-19.46.19:700][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.46.19:729][202]LogRenderer: Reallocating scene render targets to support 1292x756 Format 26 NumSamples 1 (Frame:1).
+[2018.12.05-19.46.32:381][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.46.32:381][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.46.32:403][958]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.46.32:437][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.46.32:437][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.46.32:499][959]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.05-19.46.59:584][580]LogEditorViewport: Clicking on Actor (LMB): SlugCat_Character_C (SlugCat_Character)
+[2018.12.05-19.47.06:857][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.47.06:989][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.47.07:011][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.47.07:011][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.47.07:011][ 19]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:47:07 AM)
+[2018.12.05-19.47.07:011][ 19]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.47.07:021][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010050s)
+[2018.12.05-19.47.07:022][ 19]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.47.07:022][ 19]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.12.05-19.47.07:022][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010932s)
+[2018.12.05-19.47.07:087][ 19]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.47.07:175][ 19]LogInit: FAudioDevice initialized.
+[2018.12.05-19.47.07:192][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.47.07:237][ 19]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.47.07:237][ 19]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.47.07:240][ 19]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.47.07
+[2018.12.05-19.47.07:241][ 19]LogWorld: Bringing up level for play took: 0.002489
+[2018.12.05-19.47.07:256][ 19]Set new viewmode: Unlit
+[2018.12.05-19.47.07:260][ 19]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.011
+[2018.12.05-19.47.07:260][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.47.38:133][867]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.47.38:140][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.47.38:177][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.47.38:178][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.47.38:244][868]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.05-19.47.40:011][974]LogEditorViewport: Clicking on Actor (LMB): RoyalCat_Character_C (RoyalCat_Character2)
+[2018.12.05-19.47.43:822][198]LogEditorViewport: Clicking on Actor (LMB): RoyalCat_Character_C (RoyalCat_Character2)
+[2018.12.05-19.47.58:271][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.47.58:406][ 71]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cats/RoyalCat_Character.RoyalCat_Character
+[2018.12.05-19.50.32:925][279]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.50.33:752][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cats/RoyalCat_Character" FILE="../../../../PawPrintStudios/Test2/Content/Cats/RoyalCat_Character.uasset" SILENT=true
+[2018.12.05-19.50.33:822][308]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/RoyalCat_CharacterBBA34C104D1B10006AD144A52C3257AF.tmp' to '../../../../PawPrintStudios/Test2/Content/Cats/RoyalCat_Character.uasset'
+[2018.12.05-19.50.35:580][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.50.35:607][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.50.35:607][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.50.35:607][410]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:50:35 AM)
+[2018.12.05-19.50.35:607][410]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.50.35:617][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010019s)
+[2018.12.05-19.50.35:618][410]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.50.35:618][410]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.12.05-19.50.35:618][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011066s)
+[2018.12.05-19.50.35:686][410]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.50.35:773][410]LogInit: FAudioDevice initialized.
+[2018.12.05-19.50.35:790][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.50.35:833][410]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.50.35:833][410]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.50.35:836][410]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.50.35
+[2018.12.05-19.50.35:837][410]LogWorld: Bringing up level for play took: 0.002784
+[2018.12.05-19.50.35:852][410]Set new viewmode: Unlit
+[2018.12.05-19.50.35:856][410]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.586
+[2018.12.05-19.50.35:857][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.51.03:100][ 37]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.51.03:109][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.51.03:145][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.51.03:145][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.51.03:213][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.05-19.51.10:180][456]LogEditorViewport: Clicking on Actor (LMB): RoyalCat_Character_C (RoyalCat_Character2)
+[2018.12.05-19.51.13:404][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.51.53:535][ 18]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.51.56:470][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.51.56:498][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.51.56:498][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.51.56:498][173]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:51:56 AM)
+[2018.12.05-19.51.56:498][173]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.51.56:509][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010291s)
+[2018.12.05-19.51.56:509][173]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.51.56:510][173]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2018.12.05-19.51.56:510][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011232s)
+[2018.12.05-19.51.56:577][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.51.56:665][173]LogInit: FAudioDevice initialized.
+[2018.12.05-19.51.56:682][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.51.56:728][173]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.51.56:728][173]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.51.56:730][173]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.51.56
+[2018.12.05-19.51.56:731][173]LogWorld: Bringing up level for play took: 0.002356
+[2018.12.05-19.51.56:747][173]Set new viewmode: Unlit
+[2018.12.05-19.51.56:751][173]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.519
+[2018.12.05-19.51.56:751][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.52.27:202][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.52.27:202][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.52.27:224][995]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.52.27:270][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.52.27:270][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.52.27:334][996]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.05-19.53.49:440][840]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.53.53:697][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.53.53:728][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.53.53:728][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.53.53:728][ 80]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:53:53 AM)
+[2018.12.05-19.53.53:728][ 80]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.53.53:738][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010034s)
+[2018.12.05-19.53.53:739][ 80]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.53.53:739][ 80]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.12.05-19.53.53:739][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010922s)
+[2018.12.05-19.53.53:804][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.53.53:890][ 80]LogInit: FAudioDevice initialized.
+[2018.12.05-19.53.53:909][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.53.53:954][ 80]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.53.53:954][ 80]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.53.53:956][ 80]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.53.53
+[2018.12.05-19.53.53:957][ 80]LogWorld: Bringing up level for play took: 0.002206
+[2018.12.05-19.53.53:972][ 80]Set new viewmode: Unlit
+[2018.12.05-19.53.53:976][ 80]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.705
+[2018.12.05-19.53.53:976][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.54.20:976][694]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.54.20:985][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.54.21:024][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.54.21:024][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.54.21:093][695]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.05-19.54.31:768][332]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.54.34:127][459]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.54.34:156][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.54.34:156][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.54.34:156][459]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:54:34 AM)
+[2018.12.05-19.54.34:156][459]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.54.34:166][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010115s)
+[2018.12.05-19.54.34:167][459]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.54.34:167][459]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.12.05-19.54.34:167][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011000s)
+[2018.12.05-19.54.34:235][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.54.34:323][459]LogInit: FAudioDevice initialized.
+[2018.12.05-19.54.34:340][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.54.34:380][459]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.54.34:380][459]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.54.34:383][459]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.54.34
+[2018.12.05-19.54.34:384][459]LogWorld: Bringing up level for play took: 0.002326
+[2018.12.05-19.54.34:399][459]Set new viewmode: Unlit
+[2018.12.05-19.54.34:403][459]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.133
+[2018.12.05-19.54.34:403][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.16:997][ 10]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.55.17:007][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.17:049][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.55.17:049][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.17:115][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.05-19.55.33:541][989]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.55.35:764][108]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.55.35:795][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.35:795][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.55.35:795][108]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:55:35 AM)
+[2018.12.05-19.55.35:795][108]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.55.35:805][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010150s)
+[2018.12.05-19.55.35:806][108]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.55.35:806][108]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2018.12.05-19.55.35:806][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011022s)
+[2018.12.05-19.55.35:875][108]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.55.35:961][108]LogInit: FAudioDevice initialized.
+[2018.12.05-19.55.35:978][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.55.36:021][108]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.55.36:021][108]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.55.36:024][108]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.55.36
+[2018.12.05-19.55.36:025][108]LogWorld: Bringing up level for play took: 0.002321
+[2018.12.05-19.55.36:040][108]Set new viewmode: Unlit
+[2018.12.05-19.55.36:044][108]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.773
+[2018.12.05-19.55.36:044][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.57:162][369]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.55.57:173][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.57:215][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.55.57:215][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.57:280][370]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.05-19.55.58:259][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.55.58:281][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.55.58:281][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.55.58:281][428]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:55:58 AM)
+[2018.12.05-19.55.58:281][428]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.55.58:291][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010002s)
+[2018.12.05-19.55.58:292][428]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.55.58:292][428]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.12.05-19.55.58:292][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010937s)
+[2018.12.05-19.55.58:356][428]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.55.58:445][428]LogInit: FAudioDevice initialized.
+[2018.12.05-19.55.58:461][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.55.58:504][428]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.55.58:504][428]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.55.58:507][428]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.55.58
+[2018.12.05-19.55.58:507][428]LogWorld: Bringing up level for play took: 0.002203
+[2018.12.05-19.55.58:523][428]Set new viewmode: Unlit
+[2018.12.05-19.55.58:527][428]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.743
+[2018.12.05-19.55.58:527][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.01:007][573]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.56.01:016][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.01:054][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.56.01:054][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.01:125][574]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.05-19.56.18:295][587]LogEditorTransaction: Undo Break Pin Links
+[2018.12.05-19.56.26:090][ 49]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.56.27:990][148]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-19.56.28:019][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.28:019][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.56.28:019][148]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 3:56:28 AM)
+[2018.12.05-19.56.28:019][148]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-19.56.28:030][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010377s)
+[2018.12.05-19.56.28:030][148]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-19.56.28:031][148]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2018.12.05-19.56.28:031][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011449s)
+[2018.12.05-19.56.28:097][148]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-19.56.28:185][148]LogInit: FAudioDevice initialized.
+[2018.12.05-19.56.28:202][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.56.28:247][148]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-19.56.28:247][148]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-19.56.28:250][148]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-11.56.28
+[2018.12.05-19.56.28:251][148]LogWorld: Bringing up level for play took: 0.002447
+[2018.12.05-19.56.28:267][148]Set new viewmode: Unlit
+[2018.12.05-19.56.28:271][148]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1
+[2018.12.05-19.56.28:271][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.52:837][618]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-19.56.52:845][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.52:891][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.56.52:891][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-19.56.52:956][619]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.05-19.57.02:551][191]BlueprintLog: New page: Compile RoyalCat_Character
+[2018.12.05-19.57.03:741][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cats/RoyalCat_Character" FILE="../../../../PawPrintStudios/Test2/Content/Cats/RoyalCat_Character.uasset" SILENT=true
+[2018.12.05-19.57.03:794][246]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/RoyalCat_CharacterB1756058449BF8B3CE7795B9B1015F23.tmp' to '../../../../PawPrintStudios/Test2/Content/Cats/RoyalCat_Character.uasset'
+[2018.12.05-19.57.47:680][724]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/MotionControllerMap_Auto2736C8A194516535BD603BFAD9768D1C2.tmp' to '../../../../PawPrintStudios/Test2/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2018.12.05-19.57.47:685][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.321
+[2018.12.05-19.57.47:685][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.321
+[2018.12.05-20.02.40:120][534]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-20.02.40:157][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-20.02.40:157][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-20.02.40:157][534]PIE: New page: PIE session: MotionControllerMap (Dec 5, 2018, 4:02:40 AM)
+[2018.12.05-20.02.40:157][534]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.05-20.02.40:168][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010652s)
+[2018.12.05-20.02.40:169][534]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.05-20.02.40:169][534]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.12.05-20.02.40:169][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011705s)
+[2018.12.05-20.02.40:232][534]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.05-20.02.40:322][534]LogInit: FAudioDevice initialized.
+[2018.12.05-20.02.40:339][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-20.02.40:379][534]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.05-20.02.40:379][534]LogLoad: Game class is 'GameModeBase'
+[2018.12.05-20.02.40:382][534]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.12.05-12.02.40
+[2018.12.05-20.02.40:383][534]LogWorld: Bringing up level for play took: 0.003089
+[2018.12.05-20.02.40:399][534]Set new viewmode: Unlit
+[2018.12.05-20.02.40:402][534]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.132
+[2018.12.05-20.02.40:403][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-20.03.10:665][343]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-20.03.10:674][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-20.03.10:720][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-20.03.10:720][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.05-20.03.10:781][344]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.05-20.06.39:796][321]LogSlate: Window 'Save Content' being destroyed
+[2018.12.05-20.06.40:505][321]LogSavePackage: Moving '../../../../PawPrintStudios/Test2/Saved/MotionControllerMapC10217A940768A9B018F818A0E2E80C1.tmp' to '../../../../PawPrintStudios/Test2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.12.05-20.06.40:549][321]LogFileHelpers: Saving map 'MotionControllerMap' took 0.712
+[2018.12.05-20.06.43:497][486]LogSlate: Window 'Test2 - Unreal Editor' being destroyed
+[2018.12.05-20.06.43:739][487]Cmd: QUIT_EDITOR
+[2018.12.05-20.06.44:288][487]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-20.06.44:303][487]LogExit: Preparing to exit.
+[2018.12.05-20.06.44:745][487]LogExit: Editor shut down
+[2018.12.05-20.06.44:746][487]LogExit: Transaction tracking system shut down
+[2018.12.05-20.06.45:376][487]LogExit: Object subsystem successfully closed.
+[2018.12.05-20.06.45:426][487]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.05-20.06.45:439][487]LogD3D11RHI: Shutdown
+[2018.12.05-20.06.45:439][487]LogD3D11RHI: CleanupD3DDevice
+[2018.12.05-20.06.45:444][487]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module SequencerWidgets (614)
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.05-20.06.45:460][487]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2018.12.05-20.06.45:461][487]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.12.05-20.06.45:461][487]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.12.05-20.06.45:466][487]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.12.05-20.06.45:466][487]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.12.05-20.06.45:466][487]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.12.05-20.06.45:466][487]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.05-20.06.45:466][487]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.05-20.06.45:467][487]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.05-20.06.45:468][487]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.05-20.06.45:469][487]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.05-20.06.45:470][487]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.05-20.06.45:471][487]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.05-20.06.45:471][487]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.05-20.06.45:471][487]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.05-20.06.45:877][487]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.05-20.06.45:878][487]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.05-20.06.45:932][487]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.05-20.06.45:933][487]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.05-20.06.45:933][487]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.05-20.06.45:933][487]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.05-20.06.45:933][487]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.05-20.06.45:944][487]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.05-20.06.45:945][487]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.05-20.06.45:946][487]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.05-20.06.45:947][487]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.05-20.06.46:142][487]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.05-20.06.46:142][487]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.05-20.06.46:142][487]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.05-20.06.46:143][487]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.05-20.06.46:148][487]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.05-20.06.46:149][487]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.05-20.06.46:250][487]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.05-20.06.46:351][487]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.05-20.06.46:352][487]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.05-20.06.46:352][487]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.05-20.06.46:353][487]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.05-20.06.46:353][487]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.05-20.06.46:353][487]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.05-20.06.46:356][487]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.05-20.06.46:358][487]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.05-20.06.46:364][487]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.05-20.06.46:365][487]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.05-20.06.46:368][487]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.05-20.06.46:369][487]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.05-20.06.46:369][487]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.05-20.06.46:369][487]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.05-20.06.46:369][487]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.05-20.06.46:431][487]LogDerivedDataCache: Shutdown
+[2018.12.05-20.06.46:431][487]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.05-20.06.46:432][487]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.05-20.06.46:433][487]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.05-20.06.46:446][487]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.05-20.06.46:446][487]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.05-20.06.46:457][487]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.05-20.06.46:457][487]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.05-20.06.46:504][487]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.05-20.06.46:505][487]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.05-20.06.46:506][487]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.05-20.06.46:506][487]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.05-20.06.46:533][487]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.05-20.06.46:533][487]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.05-20.06.46:533][487]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B6C951A-4807-85A3-063C-7381C91F3DDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=7ad6a49f41f921004781c993bbaf1b79%7C4ebce770f14e402d9eb38d570f2ce1e0%7C774fe0ca-e601-4966-868e-a3cfde89475b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.05-20.06.46:553][487]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.05-20.06.46:554][487]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.05-20.06.46:555][487]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.05-20.06.46:555][487]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.05-20.06.46:556][487]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.05-20.06.46:556][487]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.05-20.06.46:556][487]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.05-20.06.46:557][487]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.05-20.06.46:558][487]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.05-20.06.46:558][487]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.05-20.06.46:558][487]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.05-20.06.46:558][487]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.05-20.06.46:558][487]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.05-20.06.46:565][487]LogExit: Exiting.
+[2018.12.05-20.06.46:595][487]Log file closed, 12/05/18 12:06:46
